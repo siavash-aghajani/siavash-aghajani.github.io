@@ -22,7 +22,7 @@
       {%- for exclude_path in site.nav_exclude -%}
 
 
-      {%- if exclude_path =="pages/404.html" -%}
+      {%- if exclude_path contains '404' -%}
       {%- continue -%}
       {%- endif -%}
 
