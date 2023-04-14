@@ -9,6 +9,4 @@ which can also be forked as a boilerplate for older versions of Jekyll.
 
 ![Screenshot - Home](assets/images/screenshots/homepage.png)
 
-![Screenshot - Blog](assets/images/screenshots/post.png)
-
 
