@@ -20,3 +20,10 @@ _sass/simple-texture/common/_social-icons.scss
 -------------
 icon in home
 asset image icon
+/////////////////////////////////
+صفحه اولی نیاد
+توی path
+config
+path
+home /
+home /blog
