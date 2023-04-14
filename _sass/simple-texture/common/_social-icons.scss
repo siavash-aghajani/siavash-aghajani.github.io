@@ -32,6 +32,13 @@ $size: 48;
         background-color: #3B5998;
     }
 
+    
+    .ico-telegram {
+        @include get-ico-image(telegram);
+
+        background-color: #3B5998;
+    }
+    
     .ico-github {
         @include get-ico-image(github);
 
