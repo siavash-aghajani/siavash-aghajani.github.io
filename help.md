@@ -27,3 +27,8 @@ config
 path
 home /
 home /blog
+
+/////////////////////////////
+favicon
+داخل layoutهوم و بلاگ 
+داخل کدheader زدم
