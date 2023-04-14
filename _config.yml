@@ -2,7 +2,8 @@
 encoding: UTF-8
 exclude: ["*.gem", "*.gemspec", "Gemfile", "Gemfile.lock", "node_modules", "Rakefile", "starter-kit", "vendor"]
 lang: en # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:year/:month/:day/:title/bio
+
 
 whitelist: [jekyll-feed, jekyll-redirect-from, jekyll-seo-tag, jekyll-sitemap]
 plugins:
@@ -21,25 +22,23 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
+url: "http://siavash-aghajani.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # the subpath of your site, e.g. /blog
+title: Siavash Aghajani
+description: "Notes of an electrical engineer"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name:
+  name: Siavash
   job_title:
-  location:
-  email:
+  location: iran
+  email: s14v458@aut.ac.ir
   social_links:
-    - name: facebook
-      url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
-    - name: instagram
-      url:
+      url: https://github.com/siavash-aghajani
+    - name: telegram
+      url: https://t.me/siavashhiro
     - name: linkedin
-      url:
+      url: https://www.linkedin.com/in/siavashaghajani/
     - name: stackoverflow
       url:
     - name: twitter
@@ -47,13 +46,15 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Simple Texture</h1>
-  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section1: <h1>Siavash Aghajani</h1> 
+            <h1> سیاوش آقاجانی</h1>
+  section2: <h2>Notes of an electrical engineer</h2>
+            <h2>یادداشت های یک مهندس برق</h2>
+  
 blog:
-  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
-  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
-  footer_content: A gem-based responsive simple texture styled <a href="http://jekyllrb.com/">Jekyll</a> theme.
+  #####################################cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
+  ####################################cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
+  footer_content: وبسایت شخصی سیاوش آقاجانی
 
 disqus:
   shortname: # e.g. yizeng
@@ -62,6 +63,7 @@ google_tag_manager: # e.g. 'GTM-KCQJXZ8F'
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5 
 
 paths:
+  bio: /blog/bio
   home: /
   blog: /blog/
   categories: /blog/categories/
