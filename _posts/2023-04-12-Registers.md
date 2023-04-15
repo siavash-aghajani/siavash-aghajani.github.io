@@ -32,8 +32,7 @@ redirect_from:
 
   
 
-
-# D FF (Data Flip Flop)
+33# D FF (Data Flip Flop)
 
 * characteristic Table
 
@@ -42,7 +41,9 @@ redirect_from:
     |:-:|:-:
     | 0 | 0 
     | 1 | 1 
-  
+## how it works?
+> this flip flop put input on output directly.
+> 
 # Jk FF (Jump kill Flip Flop)
 
 * characteristic Table
