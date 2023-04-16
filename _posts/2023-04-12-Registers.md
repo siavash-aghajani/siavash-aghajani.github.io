@@ -32,7 +32,7 @@ redirect_from:
 
   
 
-33# D FF (Data Flip Flop)
+# D FF (Data Flip Flop)
 
 * characteristic Table
 
@@ -65,5 +65,8 @@ redirect_from:
     |:-:|:-:
     | 0 | Q(t) 
     | 1 | Q **'**(t) 
+## how it works?
+> if input is T=0, output will not change.
+> if input is T=1, output will be toggle( zero to one and vice versa).
   
 
