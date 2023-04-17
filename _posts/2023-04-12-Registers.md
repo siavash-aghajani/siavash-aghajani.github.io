@@ -23,7 +23,12 @@ redirect_from:
     | 0 | 1 | 0 
     | 1 | 0 | 1  
     | 1 | 1 | unvalid 
-    
+## how it works?
+> its obvious! 
+> S=1 and R=0 mean that we set 1 on the output.
+> S=0 and R=1 mean that we reset the output.
+> S=R=0 means that output will not change.
+
 ## note
 > if we set S=R=1, then both of Q and Q' would be 0, which is unvalid.(these two outputs should be complement of each other.)
 <a class="post-image" href="/assets/images/posts/nor.jpg">
@@ -43,7 +48,8 @@ redirect_from:
     | 1 | 1 
 ## how it works?
 > this flip flop put input on output directly.
-> 
+
+
 # Jk FF (Jump kill Flip Flop)
 
 * characteristic Table
@@ -65,6 +71,7 @@ redirect_from:
     |:-:|:-:
     | 0 | Q(t) 
     | 1 | Q **'**(t) 
+
 ## how it works?
 > if input is T=0, output will not change.
 > if input is T=1, output will be toggle( zero to one and vice versa).
