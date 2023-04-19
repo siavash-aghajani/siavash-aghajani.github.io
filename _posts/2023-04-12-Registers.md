@@ -23,6 +23,7 @@ redirect_from:
     | 0 | 1 | 0 
     | 1 | 0 | 1  
     | 1 | 1 | unvalid 
+
 ## how it works?
 > its obvious! 
 > S=1 and R=0 mean that we set 1 on the output.
@@ -46,6 +47,7 @@ redirect_from:
     |:-:|:-:
     | 0 | 0 
     | 1 | 1 
+
 ## how it works?
 > this flip flop put input on output directly.
 
@@ -57,11 +59,21 @@ redirect_from:
     |--
     | j | k | Q(t+1) 
     |:-:|:-:|:-:
-    | 0 | 0 | Q(t) 
+    | 0 | 0 | Q(t)
     | 0 | 1 | 0
     | 1 | 0 | 1 
     | 1 | 1 | Q **'**(t) 
-  
+
+## how it works?
+> its really simple.
+> j=1 and k=0 mean that output will jump on 1.
+> j=0 and k=1 mean that output quantity will be killed.
+> j=k=0 means that output will not change.
+> j=k=1 means that output will be toggled.
+>
+
+
+
 # TFF (Toggle Flip Flop)
 
 * characteristic Table
