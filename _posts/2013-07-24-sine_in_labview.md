@@ -11,10 +11,10 @@ redirect_from:
 # the final picture
 ## build your project like below images
 
-<a class="post-image" href="https://kramdown.gettalong.org/overview.png">
-<img itemprop="image" data-src="https://kramdown.gettalong.org/overview.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
+<a class="post-image" href="/assets/images/posts/sin_front.png">
+<img itemprop="image" data-src="/assets/images/posts/sin_front.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
 </a>
 
-<a class="post-image" href="https://kramdown.gettalong.org/overview.png">
-<img itemprop="image" data-src="https://kramdown.gettalong.org/overview.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
+<a class="post-image" href="/assets/images/posts/sin_back.png">
+<img itemprop="image" data-src="https:/assets/images/posts/sin_front.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
 </a>
