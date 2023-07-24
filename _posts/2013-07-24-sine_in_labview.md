@@ -8,6 +8,13 @@ redirect_from:
   - /2023/07/24/
 ---
 
+# the final picture
+## build your project like below images
 
-* Kramdown table of contents
-{:toc .toc}
+<a class="post-image" href="https://kramdown.gettalong.org/overview.png">
+<img itemprop="image" data-src="https://kramdown.gettalong.org/overview.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
+</a>
+
+<a class="post-image" href="https://kramdown.gettalong.org/overview.png">
+<img itemprop="image" data-src="https://kramdown.gettalong.org/overview.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
+</a>
