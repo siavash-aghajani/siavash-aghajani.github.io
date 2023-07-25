@@ -18,12 +18,12 @@ This is [a link](https://github.com/siavash-aghajani/sin_labview) exe and projec
 <a class="post-image" href="/assets/images/posts/sin_back.png">
 <img itemprop="image" data-src="https:/assets/images/posts/sin_back.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
 </a>
-# detaols
-* I in for loop builds the x-axis for sin(x).
-  * multiplying I with a low double number gives us a high resolution plot.(think why?[^1]) 
-* sin in labview uses radian, so I change it to degree.
-* delay in for would help us to see the plot.
+# details
+* 'I' in for loop produces x for sin(x).
+  * multiplying 'I' in a low double number gives us a high-resolution plot.(think why?[^1]) 
+* sin in labview uses radian, so I changed it to degree.
+* delay in for loop would help us to see the plot.
 
-  [^1]: because the step for x would be smaller, so we have more x (and y) in an area rather than bigger x.
+  [^1]: because the step for x would be smaller, so we have more x (and y) in a specific area.
 
 
