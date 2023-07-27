@@ -24,7 +24,7 @@ sass:
 # Site Data
 url: "http://siavash-aghajani.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:  # the subpath of your site, e.g. /blog
-title: Siavash Aghajani
+title: Siavash Aghajani سیاوش آقاجانی
 description: "Notes of an electrical engineer"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
