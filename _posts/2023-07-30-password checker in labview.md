@@ -15,9 +15,7 @@ This is a [link]([https://siavash-aghajani.github.io/blog/2023/07/30/password_ch
 <a class="post-image" href="/assets/images/posts/pass_front.png">
 <img itemprop="image" data-src="/assets/images/posts/pass_front.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
 </a>
-<a class="post-image" href="/assets/images/posts/pass_front2.png">
-<img itemprop="image" data-src="/assets/images/posts/pass_front2.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
-</a>
+
 <a class="post-image" href="/assets/images/posts/pass_back.png">
 <img itemprop="image" data-src="/assets/images/posts/pass_back.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
 </a>
@@ -28,10 +26,10 @@ This is a [link]([https://siavash-aghajani.github.io/blog/2023/07/30/password_ch
 * default password is 1234
 * for building passwords, I concatenate numbers( of course I turned them to string(why?[^1])
 * I used cluster to avoid having a messy program.
-  * <a class="post-image" href="/assets/images/posts/pass_front.png">
-<img itemprop="image" data-src="/assets/images/posts/pass_front.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
-</a> 
 * You'll need to pay attention to the index of buttons in cluster for using in case structure.
+  *<a class="post-image" href="/assets/images/posts/pass_front2.png">
+<img itemprop="image" data-src="/assets/images/posts/pass_front2.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
+</a>
 
 
 
