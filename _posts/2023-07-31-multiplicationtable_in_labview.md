@@ -20,7 +20,7 @@ This is a [link]([https://github.com/siavash-aghajani/Multiplication-table-in-la
 
 # details
 * I use tunnel for building an array(indexing for row and and last value for column[pay attention to the shapes])
-  *> To comprehend better tunnel <a class="post-image" href="/assets/images/posts/indexing_back.png">
+  * > To comprehend better tunnel <a class="post-image" href="/assets/images/posts/indexing_back.png">
 <img itemprop="image" data-src="https:/assets/images/posts/indexing_back.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
 </a>
 <a class="post-image" href="/assets/images/posts/indexing_front.png">
