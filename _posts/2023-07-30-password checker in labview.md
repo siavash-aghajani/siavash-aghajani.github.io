@@ -10,7 +10,7 @@ redirect_from:
 * Kramdown table of contents
 {:toc .toc}
 
-This is a [link]([https://siavash-aghajani.github.io/blog/2023/07/30/password_checker_in_labview]) for downloading files and exe file.
+This is a [link]([https://github.com/siavash-aghajani/password-checker-labview]) for downloading files and exe file.
 
 <a class="post-image" href="/assets/images/posts/pass_front.png">
 <img itemprop="image" data-src="/assets/images/posts/pass_front.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
