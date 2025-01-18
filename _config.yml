@@ -66,5 +66,6 @@ paths:
   bio: /blog/bio
   home: /
   blog: /blog/
+  album: /blog/album/
   categories: /blog/categories/
   tags: /blog/tags/
