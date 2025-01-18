@@ -12,9 +12,9 @@ header
 ------------------------
 توی include
 overlays
--------------
+
 توی کانفیگ (توی گ.شی هم نشون بده)
-permannt links
+
 ----------------------
 _sass/simple-texture/common/_social-icons.scss
 ایکون شبکهه
