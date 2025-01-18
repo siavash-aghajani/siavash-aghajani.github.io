@@ -1,6 +1,7 @@
 en: &en
   about: 'About'
   bio: 'About me'
+  album: 'album'
   articles: 'Articles'
   back_to_top: 'Back to Top'
   categories: 'Categories'
@@ -41,6 +42,7 @@ en-nz:
 fa: &fa
   about: 'صفحه اصلی'
   bio: 'درباره من'
+  album: 'آلبوم'
   articles: 'مقاله ها'
   back_to_top: 'برگشت به بالا'
   categories: 'دسته بندی ها'
