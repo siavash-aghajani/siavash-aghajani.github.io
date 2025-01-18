@@ -2,7 +2,7 @@
 encoding: UTF-8
 exclude: ["*.gem", "*.gemspec", "Gemfile", "Gemfile.lock", "node_modules", "Rakefile", "starter-kit", "vendor"]
 lang: en # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:year/:month/:day/:title/:album/
 
 
 whitelist: [jekyll-feed, jekyll-redirect-from, jekyll-seo-tag, jekyll-sitemap]
@@ -26,7 +26,7 @@ url: "http://siavash-aghajani.github.io" # the base hostname & protocol for your
 baseurl:  # the subpath of your site, e.g. /blog
 title: Siavash Aghajani سیاوش آقاجانی
 description: "Notes of an electrical engineer"
-keywords: 'jekyll,theme,gem-based,blog'
+keywords: 'electrical,engineering,siavash,aghajani'
 author:
   name: Siavash
   job_title:
