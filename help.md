@@ -14,6 +14,7 @@ header
 overlays
 
 توی کانفیگ (توی گ.شی هم نشون بده)
+(about میشه همون صفحه ااول سایت)
 
 ----------------------
 _sass/simple-texture/common/_social-icons.scss
