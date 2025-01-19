@@ -7,7 +7,8 @@
 @import 'simple-texture/common/pace';
 
 html {
-    background: url('../images/theme/noisy_texture_F9F9F9.png') cover ;
+    background: url('../images/theme/noisy_texture_F9F9F9.png') ;
+    background-size: cover;
 }
 
 body {
