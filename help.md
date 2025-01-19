@@ -27,3 +27,9 @@ asset image icon
 favicon
 داخل layoutهوم و بلاگ 
 داخل کدheader زدم
+
+
+
+====================================
+for changing background
+sass =>css => background: url
