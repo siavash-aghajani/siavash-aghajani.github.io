@@ -29,7 +29,7 @@ favicon
 داخل کدheader زدم
 
 
-
+<link rel="icon" href="../assets/images/simple-icons/web_icon.png" sizes="16x16">
 ====================================
 for changing background
 sass =>css => background: url
