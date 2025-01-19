@@ -1,6 +1,16 @@
 ---
 layout: blog
 ---
+
+<head>
+    {% include common/meta.html %}
+    <link href='{{ site.baseurl }}/assets/stylesheets/home.css' rel="stylesheet" type="text/css">
+    {% include common/libraries.html %}
+    {% if site.google_tag_manager %}
+        {% include common/gtm-head.html %}
+    {% endif %}
+        <link rel="icon" href="../assets/images/simple-icons/web_icon.png" sizes="16x16">
+</head>
 <article class="unit-article layout-post">
     <div class="unit-inner unit-article-inner">
         <div itemscope itemtype="http://schema.org/Article" class="content">
