@@ -27,8 +27,8 @@ figure {
   perspective: 900px;
 
 
-  &:nth-child(1) { --imageUrl: url('../assets/images/album/starai-statue.jpg'); }
-  &:nth-child(2) { --imageUrl: url('../assets/images/album/starai-inscribe.jpg'); }
+  &:nth-child(1) { --imageUrl: url('assets/images/album/starai-inscribe.jpg'); }
+  &:nth-child(2) { --imageUrl: url('assets/images/album/starai-inscribe.jpg'); }
 
 
   img {
