@@ -28,6 +28,13 @@ favicon
 داخل layoutهوم و بلاگ 
 داخل کدheader زدم
 
+best way ==== in html of a page insert
+<head>
+  <link rel="icon"
+      type="image/png"
+      href="/assets/images/simple-icons/web_icon.png">
+</head>
+
 
 <link rel="icon" href="../assets/images/simple-icons/web_icon.png" sizes="16x16">
 ====================================
