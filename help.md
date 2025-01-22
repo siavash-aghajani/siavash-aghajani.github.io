@@ -28,7 +28,7 @@ favicon
 داخل layoutهوم و بلاگ 
 داخل کدheader زدم
 
-best way ==== in html of a page insert
+best way ==== in layout html of a page insert
 <head>
   <link rel="icon"
       type="image/png"
