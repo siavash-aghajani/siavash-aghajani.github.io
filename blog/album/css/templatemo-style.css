@@ -221,11 +221,10 @@ h5 {
 }
 
 .bg-overlay {
-    background: rgba(0,0,0,0.3);
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    z-index: 1;
+    background: url('../images/theme/noisy_texture_F9F9F9.png') ;
+    background-size: 100% 712px;
+    background-repeat: no-repeat;
+    background-color: white;
 }
 
 .social-icons a {
