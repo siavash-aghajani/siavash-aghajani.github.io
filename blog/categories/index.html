@@ -5,6 +5,11 @@ header: Posts By Category
 description: "This page shows a list of categories used in this blog."
 group: navigation
 ---
+<head>
+  <link rel="icon"
+      type="image/png"
+      href="/assets/images/simple-icons/web_icon.png">
+</head>
 {% capture categories %}
     {% for category in site.categories %}
         {{ category[0] }}
