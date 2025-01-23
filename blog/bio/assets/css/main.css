@@ -509,7 +509,6 @@ section,
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  width: 100%;
   position: relative;
   padding: 80px 0;
   display: flex;
