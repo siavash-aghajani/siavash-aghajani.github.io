@@ -133,6 +133,17 @@ body {
     background-color: white;
 }
 
+a {
+    color: #6cc0f7;
+    -webkit-transition: all 150ms ease-in-out;
+    -moz-transition: all 150ms ease-in-out;
+    -ms-transition: all 150ms ease-in-out;
+    -o-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    text-decoration: none !important;
+}
+
+
 a:hover {
     color: #fff;
 }
@@ -165,17 +176,6 @@ h5 {
     font-size: 16px;
     font-weight: normal;
 }
-
-a {
-    color: #6cc0f7;
-    -webkit-transition: all 150ms ease-in-out;
-    -moz-transition: all 150ms ease-in-out;
-    -ms-transition: all 150ms ease-in-out;
-    -o-transition: all 150ms ease-in-out;
-    transition: all 150ms ease-in-out;
-    text-decoration: none !important;
-}
-
 
 h1 {
     font-size: 34px;
@@ -424,7 +424,6 @@ h5 {
 
 .post-masonry .post-thumb .post-hover h4 {
     font-size: 16px;
-    font-family: 'robotoregular';
     margin-bottom: 10px;
 }
 
