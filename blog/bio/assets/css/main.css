@@ -5,12 +5,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-.body .unit-body {
-  padding: 0px 0px 0px 0px;
-  border-top: 1px solid rgba(255,255,255,0.6);
-  background: #FFFFFF;
-  box-shadow: #ADADAD 0 0 9px;
-}
+
 /*--------------------------------------------------------------
 # Font & Color Variables
 # Help: https://bootstrapmade.com/color-system/
@@ -525,7 +520,6 @@ section,
   position: relative;
   inset: 0;
   display: block;
-  width: 100%;
   height: 100%;
   object-fit: cover;
   z-index: 1;
