@@ -149,14 +149,7 @@ video {
   top:0;
   right:0;
   bottom: 0;
-}
-.wrapper-background-dark:after {
-  background: #222;
-  opacity:0.95;
-}
-.section-inner {
-  padding:20px 30px 0;
-}
+
 .fp-scrollable {
   height:calc(100vh - 200px) !important;
 }
