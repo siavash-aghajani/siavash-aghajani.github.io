@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: درباره من
 group: navigation
 ---
@@ -8,7 +8,24 @@ group: navigation
 -->
 <!DOCTYPE html>
 <html lang="en">
+<head>
+  <link rel="icon"
+      type="image/png"
+      href="/assets/images/simple-icons/web_icon.png">
+</head>
+<article class="unit-article layout-page">
+    <div class="unit-inner unit-article-inner">
+        <div class="content">
+            <header>
+                <div class="unit-head">
+                    <div class="unit-inner unit-head-inner">
+                        <h1 class="entry-title">{{ page.header }}</h1>
+                    </div>
+                </div>
+            </header>
 
+            <div class="bd article-content">
+                <div class="entry-content">
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -772,7 +789,19 @@ group: navigation
     </section><!-- /Contact Section -->
 
   </main>
+               </div>
+            </div>
 
+            <footer class="unit-foot">
+                <div class="unit-inner unit-foot-inner">
+                    <p>
+                        <a class="internal gotop" href="#page">{{ site.data.i18n[site.lang].back_to_top }}</a>
+                    </p>
+                </div>
+            </footer>
+        </div>
+    </div>
+</article>
   <footer id="footer" class="footer position-relative light-background">
     <div class="container">
       <h3 class="sitename">Brandon Johnson</h3>
