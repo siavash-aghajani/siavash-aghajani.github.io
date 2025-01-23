@@ -142,14 +142,10 @@ textarea {
 }
 
 body {
-    font-size: 14px;
-    line-height: 24px;
-    color: #fff;
     background: url('../images/noisy_texture_F9F9F9.png') ;
     background-size: 100% 712px;
     background-repeat: no-repeat;
     background-color: white;
-    font-family: 'robotolight';
 }
 
 a {
