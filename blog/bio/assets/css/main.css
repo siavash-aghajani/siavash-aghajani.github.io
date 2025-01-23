@@ -520,7 +520,6 @@ section,
   position: relative;
   inset: 0;
   display: block;
-  height: 100%;
   object-fit: cover;
   z-index: 1;
 }
@@ -528,7 +527,7 @@ section,
 .hero:before {
   content: "";
   background: color-mix(in srgb, var(--background-color), transparent 30%);
-  position: relatove;
+  position: relative;
   inset: 0;
   z-index: 2;
 }
