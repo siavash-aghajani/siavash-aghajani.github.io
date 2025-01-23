@@ -137,7 +137,7 @@ h6 {
 --------------------------------------------------------------*/
 .header {
   color: var(--default-color);
-  position: fixed;
+  position: relative;
   top: 0;
   left: 0;
   bottom: 0;
