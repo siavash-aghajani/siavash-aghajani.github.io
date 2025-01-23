@@ -133,6 +133,39 @@ body {
     background-color: white;
 }
 
+a:hover {
+    color: #fff;
+}
+
+h1,h2,h3,h4,h5 {
+    color: #fff;
+}
+
+h1 {
+    font-size: 34px;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: normal;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
 a {
     color: #6cc0f7;
     -webkit-transition: all 150ms ease-in-out;
