@@ -152,7 +152,7 @@ video {
   position:fixed;
   left:12%;
   top:0;
-  right:181px;
+  right:12%px;
   bottom: 0;
 }
 .wrapper-background-dark:after {
