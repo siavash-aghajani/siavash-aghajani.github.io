@@ -25,10 +25,7 @@ CSS SITEMAP >>>>
 01. GENERAL CSS
 ================================================*/
 html {
-    background: url('../images/theme/noisy_texture_F9F9F9.png') ;
-    background-size: 100% 712px;
-    background-repeat: no-repeat;
-    background-color: white;
+
 }
 
 html,
@@ -43,7 +40,10 @@ body {
   font: 16px/1.6 'Raleway', Arial, Helvetica, sans-serif;
   color: #fff;
   text-align:center;
-  background: #222;
+  background: url('../images/noisy_texture_F9F9F9.png') ;
+  background-size: 100% 712px;
+  background-repeat: no-repeat;
+  background-color: white;
 }
 img {
   border: 0;
