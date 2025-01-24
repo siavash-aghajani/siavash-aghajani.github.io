@@ -42,5 +42,5 @@ for changing background
 sass =>css => background: url
 ==========================
 _sass/simple-texture/blog/_variables.scss
-تغییر رنگ تکست ها
-یا هاور
+تغییر رنگ تکست ه به صورت کلی - بقیه جاها ارجاع میگیرن با علامت دلار
+یا دستی تغییر بدی
