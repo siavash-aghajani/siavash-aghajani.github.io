@@ -40,3 +40,7 @@ best way ==== in layout html of a page insert
 ====================================
 for changing background
 sass =>css => background: url
+==========================
+_sass/simple-texture/blog/_variables.scss
+تغییر رنگ تکست ها
+یا هاور
