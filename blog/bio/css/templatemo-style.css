@@ -151,9 +151,9 @@ video {
   background-repeat: no-repeat;
   position:fixed;
   left:12%;
-  top:0;
+  top:5%;
   right:12%;
-  bottom: 0;
+  bottom: 2%;
 }
 .wrapper-background-dark:after {
   background: #222;
