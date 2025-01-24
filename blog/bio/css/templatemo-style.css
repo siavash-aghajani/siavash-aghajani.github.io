@@ -24,9 +24,6 @@ CSS SITEMAP >>>>
 /*==============================================
 01. GENERAL CSS
 ================================================*/
-html {
-
-}
 
 html,
 body {
@@ -150,6 +147,9 @@ video {
   background: -webkit-linear-gradient(top, #4096ee 0%,#39ced6 100%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to bottom, #4096ee 0%,#39ced6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4096ee', endColorstr='#39ced6',GradientType=0 ); /* IE6-9 */
+  background-position: center;
+  background-size:76% 100%;
+  background-repeat: no-repeat;
   position:fixed;
   left:0;
   top:0;
