@@ -412,7 +412,7 @@ img {
   display: inline-flex;
   align-items: center;
   font-size: var(--small-font-size);
-  color: var(--text-color);
+  color: #0077CC;
 }
 
 .social_link:hover{
