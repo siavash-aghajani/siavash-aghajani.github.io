@@ -30,7 +30,14 @@
     <div id="section0" class="section" data-name="bio">
 
         {% include common/notices.html %}
-
+          {% if site.author.email %}
+                <a class="btn-light ico-gmail" href="mailto:{{ site.author.email }}" rel="me" target="_blank" title="email"></a>
+            {% endif %}
+            {% for link in site.author.social_links %}
+                {% if link.url %}
+                    <a class="btn-light ico-{{ link.name }}" href="{{ link.url }}" rel="me" target="_blank" title="{{ link.name }}"></a>
+                {% endif %}
+            {% endfor %}
         <div class="headings animated fadeInLeft">
             {% if site.home.section1 %}{{ site.home.section1 }}{% endif %}
             {% if site.home.section2 %}{{ site.home.section2 }}{% endif %}
