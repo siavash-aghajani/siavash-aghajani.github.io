@@ -21,18 +21,11 @@
     {% if site.google_tag_manager %}
         {% include common/gtm-body.html %}
     {% endif %}
-
-    <ul id="menu">
-        <li data-menuanchor="social"><a href="#social">Social Links</a></li>
-    </ul>
-
-    <div class="section" data-name="#social">
-     <h1 class="animated hidden">
+    
+    <div id="section1" class="section" >
+        <h1 class="animated hidden">
             <a class="btn-enter btn-light" title="{{ site.data.i18n[site.lang].enter_blog }}" href="{{ site.paths.bio | relative_url }}">{{ site.data.i18n[site.lang].enter_blog }}</a>
         </h1>
-        
-        
-    <div id="section1" class="section" data-name="social">
         <div class="social-links animated hidden">
             <a class="btn-light ico-rss" href="{{ site.baseurl }}/feed.xml" rel="me" target="_blank" title="feed"></a>
             {% if site.author.email %}
