@@ -23,7 +23,7 @@ sass:
 
 # Site Data
 url: "http://siavash-aghajani.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl:  # the subpath of your site, e.g. /blog
+baseurl: "/blog/bio"  # the subpath of your site, e.g. /blog
 title: Siavash Aghajani سیاوش آقاجانی
 description: "Notes of an electrical engineer"
 keywords: 'electrical,engineering,siavash,aghajani'
