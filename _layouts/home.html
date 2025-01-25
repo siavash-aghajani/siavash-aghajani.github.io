@@ -36,6 +36,11 @@
             {% if site.home.section2 %}{{ site.home.section2 }}{% endif %}
             {% if site.home.section3 %}{{ site.home.section3 }}{% endif %}
         </div>
+         {% for link in site.author.social_links %}
+                {% if link.url %}
+                    <a class="btn-light ico-{{ link.name }}" href="{{ link.url }}" rel="me" target="_blank" title="{{ link.name }}"></a>
+                {% endif %}
+            {% endfor %}
         <a class="btn-continue animated bounce" title="{{ site.data.i18n[site.lang].more }}" href="#social"></a>
     </div>
 
