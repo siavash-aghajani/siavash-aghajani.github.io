@@ -46,3 +46,6 @@ _sass/simple-texture/blog/_variables.scss
 یا دستی تغییر بدی
 --------------------------
 cntrl shift M   inspect element mobile mode
+
+//////////////////////////////
+layout===home enter blog
