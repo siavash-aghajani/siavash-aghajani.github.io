@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Decision Tree"
-description: "a simple description of "decision tree""
+description: "a simple description of decision tree"
 categories: [AI]
 tags: [AI, classification]
 redirect_from:
@@ -24,4 +24,6 @@ It is better to use it as a classifier. regressor usually is not enough powerful
 if the tree gets too big, it might not work well with new data.
 Keeping the tree small helps fix this. People like decision trees because they’re clear and work with all kinds of data.
 
-
+<a class="post-image" href="/assets/images/posts/dt.png">
+<img itemprop="image" data-src="/assets/images/posts/dt.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
+</a>
