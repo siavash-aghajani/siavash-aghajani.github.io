@@ -24,6 +24,4 @@ It is better to use it as a classifier. regressor usually is not enough powerful
 if the tree gets too big, it might not work well with new data.
 Keeping the tree small helps fix this. People like decision trees because they’re clear and work with all kinds of data.
 
-<a class="post-image" href="/assets/images/posts/dt.jpg">
-<img itemprop="image" data-src="/assets/images/posts/dt.jpg" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
-</a>
+
