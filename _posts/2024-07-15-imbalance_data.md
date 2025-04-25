@@ -33,6 +33,3 @@ Fixing imbalanced data is important for things like finding rare opinions or spo
 
 
 
-<a class="post-image" href="/assets/images/posts/xgb2.png">
-<img itemprop="image" data-src="/assets/images/posts/xgb2.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
-</a>
