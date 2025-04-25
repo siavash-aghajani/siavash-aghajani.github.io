@@ -20,6 +20,6 @@ Other types can follow wavy patterns.
 # when it would be helpfull?
 Regression is used in shops, schools, and sports. The goal is to make guesses close to the real numbers. You need good and clean data, or the guesses might be wrong.
 
-a class="post-image" href="/assets/images/posts/reg.jpg">
+<a class="post-image" href="/assets/images/posts/reg.jpg">
 <img itemprop="image" data-src="/assets/images/posts/reg.jpg" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
 </a>
