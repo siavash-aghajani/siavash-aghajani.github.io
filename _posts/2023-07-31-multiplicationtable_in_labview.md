@@ -10,7 +10,7 @@ redirect_from:
 * Kramdown table of contents
 {:toc .toc}
 
-This is a [link]([https://github.com/siavash-aghajani/Multiplication-table-in-labview]) for downloading files and exe file.
+This is a [link](https://github.com/siavash-aghajani/Multiplication-table-in-labview) for downloading files and exe file.
 <a class="post-image" href="/assets/images/posts/mul_back.png">
 <img itemprop="image" data-src="/assets/images/posts/mul_back.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
 </a>
