@@ -25,7 +25,7 @@ if the tree gets too big, it might not work well with new data.
 Keeping the tree small helps fix this. People like decision trees because they’re clear and work with all kinds of data.
 
 # better algorythme?
-XGBOOST is the updated decision tree. you can read it here [link]([https://siavash-aghajani.github.io/blog/2025/03/20/XGBOOST]) 
+XGBOOST is the updated decision tree. you can read it here [link](https://siavash-aghajani.github.io/blog/2025/03/20/XGBOOST) 
 
 <a class="post-image" href="/assets/images/posts/dt.jpg">
 <img itemprop="image" data-src="/assets/images/posts/dt.jpg" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
