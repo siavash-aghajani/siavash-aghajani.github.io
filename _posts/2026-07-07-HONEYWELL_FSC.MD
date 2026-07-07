@@ -81,7 +81,7 @@ redirect_from:
 </div>
 
 <a class="post-image" href="/assets/images/posts/Picture4.png">
-<img itemprop="image" data-src="/assets/images/posts/Picture6.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
+<img itemprop="image" data-src="/assets/images/posts/Picture4.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
 </a>
 
 <a class="post-image" href="/assets/images/posts/Picture6.png">
