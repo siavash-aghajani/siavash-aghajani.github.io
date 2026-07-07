@@ -49,8 +49,6 @@ redirect_from:
 
  
 # FLD symbols
-
-
 ## basic sheet symbol
 
 <div dir="rtl"> 
