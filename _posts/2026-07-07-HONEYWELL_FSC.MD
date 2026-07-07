@@ -11,6 +11,8 @@ redirect_from:
 * Kramdown table of contents
 {:toc .toc}
 
+<div dir="rtl"> 
+
 # FLD(functional logic diagram)
 هر صفحه  به 4 بخش تقسیم میشود:
 *	بخش اطلاعات(قسمت پایین) information area
@@ -22,3 +24,4 @@ redirect_from:
 *	بخش خروجی(قسمت راست) output area 
 نتیجه و خروجی بخش کنترلی به بخش خروجی میرود. این متغیرها میتوانند باعث روشن شدن تجهیز در سایت شود یا به تجهیز کامپیوتری دیگری فرستاده شوند. 
 
+</div>
