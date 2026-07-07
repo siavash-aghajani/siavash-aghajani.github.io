@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Registers"
-description: "ALL types of registers"
-categories: [digitalsystems]
-tags: [digital systems, FPGA, register]
+title: "HONEYWELL FSC"
+description: "آموزش نقشه خوانی FSC"
+categories: [HONEYWELL]
+tags: [FSC, HONEYWELL]
 redirect_from:
-  - /2023/04/12/
+  - /2026/07/07/
 ---
 
 * Kramdown table of contents
