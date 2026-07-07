@@ -49,3 +49,18 @@ cntrl shift M   inspect element mobile mode
 
 //////////////////////////////
 layout===home enter blog
+
+
+
+////////////////
+راست به چپ
+<div dir="rtl">
+
+سلام دنیا
+
+مرحبا العالم
+
+שלום בעולם
+
+ہیلو دنیا
+</div>
