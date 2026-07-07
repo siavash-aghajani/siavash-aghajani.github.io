@@ -41,5 +41,9 @@ redirect_from:
 نتیجه و خروجی بخش کنترلی به بخش خروجی میرود. این متغیرها میتوانند باعث روشن شدن تجهیز در سایت شود یا به تجهیز کامپیوتری دیگری فرستاده شوند. 
 <div dir="rtl"> 
 </div>
+<a class="post-image" href="/assets/images/posts/Picture1.png">
+<img itemprop="image" data-src="/assets/images/posts/Picture1.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
+</a>
+
 
 
