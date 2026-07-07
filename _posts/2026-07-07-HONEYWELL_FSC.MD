@@ -11,10 +11,11 @@ redirect_from:
 * Kramdown table of contents
 {:toc .toc}
 
-<div dir="rtl"> 
-
 # FLD(functional logic diagram)
+
+<div dir="rtl"> 
 هر صفحه  به 4 بخش تقسیم میشود:
+
 *	بخش اطلاعات(قسمت پایین) information area
 شامل اطلاعاتی مانند تاریخ، نام واحد، نوع بلاک و... است. در حالت عادی به کاربر نشان داده نمیشود ولی هنگام پرینت گرفتن FLD، در پایین نقشه اضافه میشود.
 *	بخش ورودی(قسمت چپ) input area
