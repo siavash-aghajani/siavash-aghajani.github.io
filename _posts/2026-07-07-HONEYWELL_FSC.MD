@@ -52,7 +52,7 @@ redirect_from:
 ## basic sheet symbol
 
 <div dir="rtl"> 
-سه بخش دارد و هنگام ساخت FLD  در نرم افزار به طور خودکار ساخته میشود.
+این سیمبل سه بخش دارد و هنگام ساخت FLD  در نرم افزار به طور خودکار ساخته میشود.
 </div>
 
 <a class="post-image" href="/assets/images/posts/Picture2.png">
@@ -68,14 +68,14 @@ redirect_from:
 تک خط برای سیگنال boolean و دو خط برای سیگنال باینری است.
 </div>
 <div dir="rtl"> 
-خط ضخیم سیگنال آنالوگ استفاده می‌شود.
+خط ضخیم برای سیگنال آنالوگ استفاده می‌شود.
 </div>
 
 <a class="post-image" href="/assets/images/posts/Picture3.png">
 <img itemprop="image" data-src="/assets/images/posts/Picture3.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
 </a>
 <div dir="rtl"> 
-اگر دو خط از هم عبور کنند و یکی از آنها به دو خط تقسیم شود، خط ها به هم وصل نیستند. اگر دو خط از هم عبور کنند یعنی به هم وصلند.
+اگر دو خط از هم عبور کنند و یکی از آنها به دو خط تقسیم شود، خط ها به هم وصل نیستند. اگر دو خط از روی هم عبور کنند یعنی به هم وصلند.
 </div>
 
 <a class="post-image" href="/assets/images/posts/Picture4.png">
@@ -113,7 +113,7 @@ redirect_from:
 # registers and counters
 
 <div dir="rtl"> 
-فقط بخش کانتر مورد نیاز است. کانتر برای توابع شمارشی استفاده میشود. اگر کانار به ماکزیمم مقدار خود برسد، خروجی f برابر یک میشود.
+فقط بخش کانتر مورد نیاز است. کانتر برای توابع شمارشی استفاده میشود. اگر کانتر به ماکزیمم مقدار خود برسد، خروجی f برابر یک میشود.
 </div>
 <div dir="rtl"> 
 اگر کانتر به مقدار MAX+1 برسد، بصورت خودکار به مقدار 0 ریست میشود.
@@ -149,7 +149,7 @@ redirect_from:
 # Constants and signal conversions
 
 <div dir="rtl"> 
-فقط سیمبل constant از این بخش مورد نیاز است. قسمت چپ نوع متغیر و قسمت راست مقدار آنرا مشخص میکند.
+فقط سیمبل constant از این بخش مورد نیاز است. قسمت چپ، نوع متغیر و قسمت راست مقدار آنرا مشخص میکند.
 </div>
 
 
@@ -181,7 +181,7 @@ redirect_from:
 هنگامی که لبه بالارونده به ورودی S وارد شود ، بعد از t ثانیه تایمر روشن میشود.
 </div>
 <div dir="rtl"> 
-اگر یک خط به ان وصل شدبه عنوان ورودی استارت در نظر  میگیرد. 
+اگر یک خط به آن وصل شد به عنوان ورودی استارت در نظر گرفته میشود.
 </div>
 
 <a class="post-image" href="/assets/images/posts/Picture15.png">
@@ -231,7 +231,7 @@ redirect_from:
 # Sheet transfers
 
 <div dir="rtl"> 
-اگر نتواتیم یک تابع را در یک FLD طراحی کنیم، از SHEET TRANSFER استفاده میکنیم. داده ها میتوانند بین FLD ها از طریق SHEET TRANSFER FUNCTION منتقل شوند.
+اگر نتوانیم یک تابع را در یک FLD طراحی کنیم، از SHEET TRANSFER استفاده میکنیم. داده ها میتوانند بین FLD ها از طریق SHEET TRANSFER FUNCTION منتقل شوند.
 </div>
 <div dir="rtl"> 
 این ویژگی میتواند به ساختن فانکشن های پیچیده و ساختار یافته با چندین دیاگرام کمک کند. این تابع از یک دایره شامل  اطلاعاتی درباره source FLD (قسمت بالا) وdestination  FLD (قسمت پایین) تشکیل شده است.
